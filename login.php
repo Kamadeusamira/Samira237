@@ -34,7 +34,7 @@
 			<div class="form-group">
 				<button type="submit" name="save" class="btn btn-success btn-lg btn-block">Login</button>
 			</div>
-			<div class="text-center">Don't have an account? <a href="login.php">Register Here</a></div>
+			<div class="text-center">Don't have an account? <a href="register.php">Register Here</a></div>
 		</form>
 	</div>
 </body>
