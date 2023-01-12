@@ -74,7 +74,7 @@
 						your satisfaction is our priority</h4> </br>
 					<div class="form-group">
 
-						<a class="btn btn-success btn-lg btn-block" href="login.php">Log in </a>
+						<a class="btn btn-success btn-lg btn-block" href="login.php">Logind </a>
 
 					</div>
 				</div>
