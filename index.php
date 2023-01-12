@@ -37,7 +37,7 @@
 				</a>
 				<!-- Left links -->
 				<div class="dropdown">
-					<button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton"
+					<button class="btn btn-success btn-lg btn-block" type="button" id="dropdownMenuButton"
 						data-mdb-toggle="dropdown" aria-expanded="false">
 						Departments
 					</button>
@@ -68,11 +68,18 @@
 		<div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
 			<div class="d-flex justify-content-center align-items-center h-100">
 				<div class="text-white">
-					<h1 class="mb-3">Djou Tousse Eric</h1>
+					<h1 class="mb-3">kAM ET FILS</h1>
 					<h4 class="mb-3">Welcome to kam et fils company.<br>Here we deal we road building ,
 						digging and construction,<br>we also offer trucks rental service.<br>
-						your satisfaction is our priority</h4>
+						your satisfaction is our priority</h4> </br>
+					<div class="form-group">
+
+						<a class="btn btn-success btn-lg btn-block" href="register.php">Log in or Signup</a>
+
+					</div>
 				</div>
+
+
 			</div>
 		</div>
 	</div>
